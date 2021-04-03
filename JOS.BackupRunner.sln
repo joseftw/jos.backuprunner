@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.218
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JOS.BackupRunner", "JOS.BackupRunner\JOS.BackupRunner.csproj", "{7A69A11C-6FD7-416C-8793-42D493B17B86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A69A11C-6FD7-416C-8793-42D493B17B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A69A11C-6FD7-416C-8793-42D493B17B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A69A11C-6FD7-416C-8793-42D493B17B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A69A11C-6FD7-416C-8793-42D493B17B86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31AA6BF6-801E-4DA5-8616-806773017EEA}
+	EndGlobalSection
+EndGlobal
